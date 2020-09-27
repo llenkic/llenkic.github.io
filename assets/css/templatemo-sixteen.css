@@ -348,7 +348,7 @@ header .navbar {
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
-	text-align: center;
+	text-align: left;
 	width: 100%;
 	padding-left: 13px;
 }
@@ -365,7 +365,7 @@ header .navbar {
 	color: #232323;
 	font-size: 22px;
 	/*text-transform: uppercase;*/
-	letter-spacing: 5px;
+	/*letter-spacing: 5px;*/
 }
 
 .owl-banner .owl-dots .owl-dot {
