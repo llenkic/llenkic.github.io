@@ -314,7 +314,6 @@ header .navbar {
 	position: relative;
 	text-align: left;
 	padding-top: 50px;
-	padding-left: 13px;
 }
 
 .banner-item-01 {
@@ -351,6 +350,7 @@ header .navbar {
 	transform: translateY(-50%);
 	text-align: center;
 	width: 100%;
+	padding-left: 13px;
 }
 
 .banner .text-content h4 {
