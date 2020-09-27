@@ -362,9 +362,9 @@ header .navbar {
 }
 
 .banner .text-content h2 {
-	color: #fff;
-	font-size: 62px;
-	text-transform: uppercase;
+	color: #232323;
+	font-size: 42px;
+	/*text-transform: uppercase;*/
 	letter-spacing: 5px;
 }
 
