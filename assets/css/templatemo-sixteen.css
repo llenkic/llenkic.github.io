@@ -318,7 +318,7 @@ header .navbar {
 
 .banner-item-01 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_01.jpg);
+	background-image: url(../images/selfie_01.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -348,7 +348,7 @@ header .navbar {
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
-	text-align: center;
+	text-align: right;
 	width: 100%;
 }
 
