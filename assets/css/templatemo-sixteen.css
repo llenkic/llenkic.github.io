@@ -349,8 +349,8 @@ header .navbar {
 	top: 50%;
 	transform: translateY(-50%);
 	text-align: left;
-	width: 60%;
-	padding-left: 25px;
+	width: 50%;
+	padding-left: 50px;
 }
 
 .banner .text-content h4 {
